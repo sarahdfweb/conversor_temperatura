@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(rgb(147, 9, 168), yellow, orange);
+}
+.page-title {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px darkred, 0 0 5px red;
+  font-family: Calibri, sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  height: 40px;
+}
+  .page-logo {
+  width: 150px;
+  position: absolute;
+  top: 25px;
+  right: 50px;
+  font-family: Arial Narrow, sans-serif;
+  font-size:40px;
+  
+}
+
+.alura-logo {
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+   font-size: 50px;
+  
+}
